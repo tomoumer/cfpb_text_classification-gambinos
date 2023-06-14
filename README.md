@@ -1,4 +1,8 @@
-# Classification of Consumer Complaints
+# Team DS6 Project - with Team Gambinos
+
+This project was a collaboration between [Tim Claytor](https://github.com/Claytor), [Asha Maheshwari](https://github.com/ashamaheshwari), [Essete Tsahai](https://github.com/essetetsahai) and myself. We discussed our approaches and tested different models.
+
+## Classification of Consumer Complaints
 
 The Consumer Financial Protection Bureau publishes the Consumer Complaint Database, a collection of complaints about consumer financial products and services that were sent to companies for response. Complaints are published after the company responds, confirming a commercial relationship with the consumer, or after 15 days, whichever comes first. 
 
